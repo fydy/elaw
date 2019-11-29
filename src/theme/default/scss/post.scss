@@ -1,0 +1,46 @@
+.page-post {
+    .title {
+        color: rgba(0,0,0,.8);
+        font-size: 20px;
+        line-height: 1.8;
+        margin-bottom: 25px;
+        text-align: center;
+        .load {
+            display: inline-block;
+            width: 50%;
+            height: 20px;
+        }
+    }
+    .mate {
+        color: rgba(0,0,0,.5);
+        font-size: 13px;
+        margin-bottom: 25px;
+        text-align: center;
+        span {
+            margin-right: 15px;
+            a {
+                color: rgba(0,0,0,.5);
+                &:hover {
+                    color: rgba(0,0,0,.7);
+                    text-decoration: underline;
+                }
+            }
+        }
+        .load {
+            display: inline-block;
+            width: 30px;
+            height: 15px;
+        }
+    }
+    .content {
+        margin-bottom: 50px;
+        padding-bottom: 50px;
+        border-bottom: 1px dotted rgba(0, 0, 0, 0.25);
+        .load {
+            height: 15px;
+        }
+    }
+    .load {
+        background: rgba(0,0,0,.05);
+    }
+}
