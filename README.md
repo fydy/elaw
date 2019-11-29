@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/37"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-29 00:56:09"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-29 01:00:35"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -66,7 +66,7 @@ is
 ---
 
 
-#### [issue-blog](https://github.com/fydy/elaw/issues/41) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:40:57
+#### [elaw](https://github.com/fydy/elaw/issues/41) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:40:57
 
 :label: : [开源](https://github.com/fydy/isblog/labels/%E5%BC%80%E6%BA%90)
 
@@ -358,7 +358,7 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 <summary>开源	<sup>2:newspaper:</sup></summary>
 
 - [qablog](https://github.com/fydy/elaw/issues/42)  <sup>0 :speech_balloon:</sup>  	 
-- [issue-blog](https://github.com/fydy/elaw/issues/41)  <sup>0 :speech_balloon:</sup>  	 
+- [elaw](https://github.com/fydy/elaw/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -479,5 +479,5 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 
 | [qablog](https://github.com/fydy/qablog) | 自动生成Github issue 静态网站，具体效果可以访问：[E-Law](https://fydy.github.io/qablog)，基于 GitHub Issues 的博客系统，技术栈为 React 全家桶。 | ![](https://badgen.net/github/stars/fydy/qablog) ![](https://badgen.net/github/forks/fydy/qablog) ![](https://badgen.net/github/watchers/fydy/qablog) |
 | --- | --- | --- |
-| [issue-blog](https://github.com/fydy/issue-blog) | 个人随笔，相关文章存放于ISSUE。内容请访问：[E-Law](https://too.luov.me)查看。 | ![](https://badgen.net/github/stars/fydy/issue-blog) ![](https://badgen.net/github/forks/fydy/issue-blog) ![](https://badgen.net/github/watchers/fydy/issue-blog) |
+| [elaw](https://github.com/fydy/elaw) | 个人随笔，相关文章存放于ISSUE。内容请访问：[E-Law](https://too.luov.me)查看。 | ![](https://badgen.net/github/stars/fydy/elaw) ![](https://badgen.net/github/forks/fydy/elaw) ![](https://badgen.net/github/watchers/fydy/elaw) |
 
