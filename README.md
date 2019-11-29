@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/37"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-29 01:58:06"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-29 02:58:22"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -50,7 +50,7 @@ is
 
     
 ## 置顶 :thumbsup: 
-- [github issue](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
+- [github issue 相关说明](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
@@ -89,7 +89,7 @@ is
 ---
 
 
-#### [github issue](https://github.com/fydy/elaw/issues/39) <sup>0 :speech_balloon:</sup> 	 2019-11-27 09:06:37
+#### [github issue 相关说明](https://github.com/fydy/elaw/issues/39) <sup>0 :speech_balloon:</sup> 	 2019-11-27 09:06:37
 
 :label: : [:+1:置顶](https://github.com/fydy/isblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [code](https://github.com/fydy/isblog/labels/code)
 
@@ -116,7 +116,7 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 
 ## 分类  :card_file_box: 
 
-<details open="open">
+<details close="close">
     <summary>
         <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
         <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
@@ -126,7 +126,7 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 <details>
 <summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
 
-- [github issue](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
+- [github issue 相关说明](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -240,7 +240,7 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 <details>
 <summary>code	<sup>2:newspaper:</sup></summary>
 
-- [github issue](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
+- [github issue 相关说明](https://github.com/fydy/elaw/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 
 
