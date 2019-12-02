@@ -17,9 +17,9 @@
 </p>
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/37"/>
+    <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-02 08:26:03"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-02 08:36:37"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -459,6 +459,14 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 <summary>诉讼	<sup>1:newspaper:</sup></summary>
 
 - [民事诉讼实务技巧](https://github.com/fydy/elaw/issues/5)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>资源	<sup>1:newspaper:</sup></summary>
+
+- [图书馆数字资源校外使用账号](https://github.com/fydy/elaw/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
