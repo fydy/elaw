@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-02 08:36:37"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-09 07:17:39"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,24 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [docker 复制](https://github.com/fydy/elaw/issues/43) <sup>0 :speech_balloon:</sup> 	 2019-12-09 07:16:48
+
+:label: : [代码](https://github.com/fydy/isblog/labels/%E4%BB%A3%E7%A0%81)
+
+- 进入docker交互模式后如何查看docker容器的id
+```
+docker run -it docker-npm-php-bridge /bin/bash
+进入交互模式后，可以通过
+cat /etc/hosts
+查看容器id
+```
+- docker cp 0699dfed9a
+
+[更多>>>](https://github.com/fydy/elaw/issues/43)
+
+---
+
 
 #### [qablog](https://github.com/fydy/elaw/issues/42) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:41:41
 
@@ -99,17 +117,6 @@ GitHub 支持删除问题，在问题页面右下角除，点击` Delete issue`
 ![image](https://user-images.githubusercontent.com/39726855/69774354-b245a580-11d0
 
 [更多>>>](https://github.com/fydy/elaw/issues/39)
-
----
-
-
-#### [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38) <sup>1 :speech_balloon:</sup> 	 2019-11-22 01:45:46
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST), [pub](https://github.com/fydy/isblog/labels/pub), [代码](https://github.com/fydy/isblog/labels/%E4%BB%A3%E7%A0%81)
-
-Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网站是否被墙，被墙的网站会通过远端服务器进行访问，但是某些被墙的网站没有及时添加到shadowsocks的数据库中，导致这些网站依然无法访问，或者某些网站在国内可以正常访问，但是速度很慢，希望通过shadowsocks进行加速，我们可
-
-[更多>>>](https://github.com/fydy/elaw/issues/38)
 
 ---
 
@@ -313,8 +320,9 @@ Shadowsokcks是一款翻墙代理软件，此软件会智能判断所访问网�
 </details>
 
 <details>
-<summary>代码	<sup>6:newspaper:</sup></summary>
+<summary>代码	<sup>7:newspaper:</sup></summary>
 
+- [docker 复制](https://github.com/fydy/elaw/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
 - [自动为WordPress文章添加特色图像](https://github.com/fydy/elaw/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 - [Git常用命令总结](https://github.com/fydy/elaw/issues/17)  <sup>0 :speech_balloon:</sup>  	 
