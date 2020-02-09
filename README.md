@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-13 03:45:02"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-09 01:02:39"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,36 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [inform](https://github.com/fydy/elaw/issues/44) <sup>0 :speech_balloon:</sup> 	 2020-02-09 01:01:46
+
+:label: : 
+
+JHDOp6eC
+6687132872
+全名
+Robert T Tetreault
+性别
+male
+Firstname
+Robert
+Lastname
+Tetreault
+Middle name
+T
+称呼
+Mr.
+生日
+2/1/1994
+州
+NJ
+街道地址
+49
+
+[更多>>>](https://github.com/fydy/elaw/issues/44)
+
+---
+
 
 #### [docker 命令总结](https://github.com/fydy/elaw/issues/43) <sup>0 :speech_balloon:</sup> 	 2019-12-09 07:16:48
 
@@ -103,20 +133,6 @@ cat /etc/hosts
 
 
 [更多>>>](https://github.com/fydy/elaw/issues/40)
-
----
-
-
-#### [github issue 相关说明](https://github.com/fydy/elaw/issues/39) <sup>0 :speech_balloon:</sup> 	 2019-11-27 09:06:37
-
-:label: : [:+1:置顶](https://github.com/fydy/isblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [code](https://github.com/fydy/isblog/labels/code)
-
-- github delete issue
-GitHub 支持删除问题，在问题页面右下角除，点击` Delete issue`
-
-![image](https://user-images.githubusercontent.com/39726855/69774354-b245a580-11d0
-
-[更多>>>](https://github.com/fydy/elaw/issues/39)
 
 ---
 
