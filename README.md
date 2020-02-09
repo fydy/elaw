@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-09 01:02:39"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-09 02:20:44"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -55,7 +55,7 @@ is
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [inform](https://github.com/fydy/elaw/issues/44) <sup>0 :speech_balloon:</sup> 	 2020-02-09 01:01:46
+#### [inform](https://github.com/fydy/elaw/issues/44) <sup>1 :speech_balloon:</sup> 	 2020-02-09 01:01:46
 
 :label: : 
 
