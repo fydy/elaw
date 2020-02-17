@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-12 03:51:26"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-17 05:10:18"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,21 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46) <sup>0 :speech_balloon:</sup> 	 2020-02-17 05:09:37
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+- 创建ss.sh
+```
+filename="chain.zip"
+file_id="1KWG4c4ieT_4K9Rd7EYdXqH27Py1wRiNk"
+query=`curl -c ./cookie.txt -s -L "https://drive.google.com/uc?expo
+
+[更多>>>](https://github.com/fydy/elaw/issues/46)
+
+---
+
 
 #### [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45) <sup>0 :speech_balloon:</sup> 	 2020-02-12 03:50:44
 
@@ -104,18 +119,6 @@ cat /etc/hosts
 个人随笔，相关文章存放于ISSUE。内容请访问：[E-Law](https://too.luov.me)查看。
 
 [更多>>>](https://github.com/fydy/elaw/issues/41)
-
----
-
-
-#### [封面](https://github.com/fydy/elaw/issues/40) <sup>1 :speech_balloon:</sup> 	 2019-11-28 06:24:30
-
-:label: : [:framed_picture:封面](https://github.com/fydy/isblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
-
-![67074718-3eb97d00-f1bc-11e9-8f0c-19cfd0e942e6](https://user-images.githubusercontent.com/39726855/69781991-be3e6100-11ea-11ea-96d3-70c69fb4eb9d.jpg)
-
-
-[更多>>>](https://github.com/fydy/elaw/issues/40)
 
 ---
 
@@ -186,8 +189,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>POST	<sup>35:newspaper:</sup></summary>
+<summary>POST	<sup>36:newspaper:</sup></summary>
 
+- [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>0 :speech_balloon:</sup>  	 
 - [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 - [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
 - [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
