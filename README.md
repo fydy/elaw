@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-21 05:13:53"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-21 05:22:45"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -62,9 +62,9 @@ is
 - PC
 ```
 694BF-YUDBG-EAR69-BPRGB-ATQXH
+QE2EV-2X2RH-9C2NW-UAGQN-HGD4C
 wps 2016 pro：R8R8P-MTT6F-KLRPM-J7CAB-PJM8C 
-wps 2016 pro：7LR67-WTXPA-KLUHV-GEK2E-QW4CK 
-wps 2016 pro：EUYTH
+wps 2016 pro：7LR67-WTXPA-KLUHV-G
 
 [更多>>>](https://github.com/fydy/elaw/issues/47)
 
