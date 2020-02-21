@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-20 06:20:08"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-21 05:13:53"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,22 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [WPS Office 2019](https://github.com/fydy/elaw/issues/47) <sup>0 :speech_balloon:</sup> 	 2020-02-21 05:13:07
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+- PC
+```
+694BF-YUDBG-EAR69-BPRGB-ATQXH
+wps 2016 pro：R8R8P-MTT6F-KLRPM-J7CAB-PJM8C 
+wps 2016 pro：7LR67-WTXPA-KLUHV-GEK2E-QW4CK 
+wps 2016 pro：EUYTH
+
+[更多>>>](https://github.com/fydy/elaw/issues/47)
+
+---
+
 
 #### [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46) <sup>0 :speech_balloon:</sup> 	 2020-02-17 05:09:37
 
@@ -108,17 +124,6 @@ cat /etc/hosts
 自动生成Github issue 静态网站，具体效果可以访问：[E-Law](https://fydy.github.io/qablog)，基于 GitHub Issues 的博客系统，技术栈为 React 全家桶。
 
 [更多>>>](https://github.com/fydy/elaw/issues/42)
-
----
-
-
-#### [elaw](https://github.com/fydy/elaw/issues/41) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:40:57
-
-:label: : [开源](https://github.com/fydy/isblog/labels/%E5%BC%80%E6%BA%90)
-
-个人随笔，相关文章存放于ISSUE。内容请访问：[E-Law](https://too.luov.me)查看。
-
-[更多>>>](https://github.com/fydy/elaw/issues/41)
 
 ---
 
@@ -189,8 +194,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>POST	<sup>36:newspaper:</sup></summary>
+<summary>POST	<sup>37:newspaper:</sup></summary>
 
+- [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>0 :speech_balloon:</sup>  	 
 - [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 - [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
