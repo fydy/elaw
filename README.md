@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-26 04:06:34"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-26 11:14:34"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,20 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48) <sup>0 :speech_balloon:</sup> 	 2020-02-26 11:13:57
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST), [windows](https://github.com/fydy/isblog/labels/windows)
+
+- 卸载旧版本Office
+从 PC 卸载 Office
+```
+https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-9dd49b83-264a-477a-8fcc-2fdf5dbf61
+
+[更多>>>](https://github.com/fydy/elaw/issues/48)
+
+---
+
 
 #### [WPS Office 2019](https://github.com/fydy/elaw/issues/47) <sup>0 :speech_balloon:</sup> 	 2020-02-21 05:13:07
 
@@ -113,17 +127,6 @@ cat /etc/hosts
 - docker cp 0699dfed9a
 
 [更多>>>](https://github.com/fydy/elaw/issues/43)
-
----
-
-
-#### [qablog](https://github.com/fydy/elaw/issues/42) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:41:41
-
-:label: : [开源](https://github.com/fydy/isblog/labels/%E5%BC%80%E6%BA%90)
-
-自动生成Github issue 静态网站，具体效果可以访问：[E-Law](https://fydy.github.io/qablog)，基于 GitHub Issues 的博客系统，技术栈为 React 全家桶。
-
-[更多>>>](https://github.com/fydy/elaw/issues/42)
 
 ---
 
@@ -194,8 +197,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>POST	<sup>37:newspaper:</sup></summary>
+<summary>POST	<sup>38:newspaper:</sup></summary>
 
+- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>0 :speech_balloon:</sup>  	 
 - [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
@@ -312,8 +316,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>windows	<sup>1:newspaper:</sup></summary>
+<summary>windows	<sup>2:newspaper:</sup></summary>
 
+- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 
 
