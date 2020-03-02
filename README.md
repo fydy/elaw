@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-02-26 11:19:25"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-02 09:54:06"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,19 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [win10 ](https://github.com/fydy/elaw/issues/49) <sup>0 :speech_balloon:</sup> 	 2020-03-02 09:53:26
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST), [windows](https://github.com/fydy/isblog/labels/windows)
+
+```
+win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
+```
+
+[更多>>>](https://github.com/fydy/elaw/issues/49)
+
+---
+
 
 #### [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48) <sup>0 :speech_balloon:</sup> 	 2020-02-26 11:13:57
 
@@ -109,24 +122,6 @@ query=`curl -c ./cookie.txt -s -L "https://drive.google.com/uc?expo
 fiddler没有手机客户端，都是安装在PC上，要实现对手机上的程序抓包，则需要对PC上的fiddler和手机端做一些配
 
 [更多>>>](https://github.com/fydy/elaw/issues/45)
-
----
-
-
-#### [docker 命令总结](https://github.com/fydy/elaw/issues/43) <sup>0 :speech_balloon:</sup> 	 2019-12-09 07:16:48
-
-:label: : [代码](https://github.com/fydy/isblog/labels/%E4%BB%A3%E7%A0%81)
-
-- 进入docker交互模式后如何查看docker容器的id
-```
-docker run -it docker-npm-php-bridge /bin/bash
-进入交互模式后，可以通过
-cat /etc/hosts
-查看容器id
-```
-- docker cp 0699dfed9a
-
-[更多>>>](https://github.com/fydy/elaw/issues/43)
 
 ---
 
@@ -197,8 +192,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>POST	<sup>38:newspaper:</sup></summary>
+<summary>POST	<sup>39:newspaper:</sup></summary>
 
+- [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>0 :speech_balloon:</sup>  	 
@@ -316,8 +312,9 @@ cat /etc/hosts
 </details>
 
 <details>
-<summary>windows	<sup>2:newspaper:</sup></summary>
+<summary>windows	<sup>3:newspaper:</sup></summary>
 
+- [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 
