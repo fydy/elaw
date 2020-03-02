@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oval_definitions xmlns="http://oval.mitre.org/XMLSchema/oval-definitions-5" xmlns:oval="http://oval.mitre.org/XMLSchema/oval-common-5" xmlns:red-def="http://oval.mitre.org/XMLSchema/oval-definitions-5#linux" xmlns:unix-def="http://oval.mitre.org/XMLSchema/oval-definitions-5#unix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://oval.mitre.org/XMLSchema/oval-common-5 oval-common-schema.xsd http://oval.mitre.org/XMLSchema/oval-definitions-5 oval-definitions-schema.xsd http://oval.mitre.org/XMLSchema/oval-definitions-5#unix unix-definitions-schema.xsd http://oval.mitre.org/XMLSchema/oval-definitions-5#linux linux-definitions-schema.xsd">
+ <generator>
+  <oval:product_name>Red Hat OVAL Patch Definition Merger</oval:product_name>
+  <oval:product_version>3</oval:product_version>
+  <oval:schema_version>5.10</oval:schema_version>
+  <oval:timestamp>2019-04-17T19:15:37</oval:timestamp>
+  <oval:content_version>1555528537</oval:content_version>
+ </generator>
+ <definitions>
+  <definition class="patch" id="oval:com.redhat.rhsa:def:20190710" version="602">
+   <metadata>
+    <title>RHSA-2019:0710: python security update (Important)</title>
+    <affected family="unix">
+     <platform>Red Hat Enterprise Linux 7</platform>
+    </affected>
+    <reference ref_id="RHSA-2019:0710-01" ref_url="https://access.redhat.com/errata/RHSA-2019:0710" source="RHSA"/>
+    <reference ref_id="CVE-2019-9636" ref_url="https://access.redhat.com/security/cve/CVE-2019-9636" source="CVE"/>
+    <description>Python is an interpreted, interactive, object-oriented programming language,</description>
+    <advisory from="secalert@redhat.com">
+     <severity>Important</severity>
+     <rights>Copyright 2019 Red Hat, Inc.</rights>
+     <issued date="2019-04-08"/>
+     <updated date="2019-04-08"/>
+     <cve cvss3="9.8/CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H" cwe="CWE-172" href="https://access.redhat.com/security/cve/CVE-2019-9636" public="20190306">CVE-2019-9636</cve>
+     <bugzilla href="https://bugzilla.redhat.com/1688543" id="1688543">CVE-2019-9636 python: Information Disclosure due to urlsplit improper NFKC normalization</bugzilla>
+     <affected_cpe_list>
+      <cpe>cpe:/o:redhat:enterprise_linux:7</cpe>
+     </affected_cpe_list>
+    </advisory>
+   </metadata>
+   <criteria operator="AND">
+    <criteria operator="OR">
+     <criterion comment="Red Hat Enterprise Linux 7 Client is installed" test_ref="oval:com.redhat.rhsa:tst:20140675001"/>
+     <criterion comment="Red Hat Enterprise Linux 7 Server is installed" test_ref="oval:com.redhat.rhsa:tst:20140675002"/>
+    </criteria>
+    <criteria operator="OR">
+     <criteria operator="AND">
+      <criterion comment="python is earlier than 0:2.7.5-77.el7_6" test_ref="oval:com.redhat.rhsa:tst:20190710005"/>
+      <criterion comment="python is signed with Red Hat redhatrelease2 key" test_ref="oval:com.redhat.rhsa:tst:20152101006"/>
+     </criteria>
+    </criteria>
+   </criteria>
+  </definition>
+ </definitions>
+ <tests>
+  <red-def:rpminfo_test check="at least one" comment="Red Hat Enterprise Linux 7 Client is installed" id="oval:com.redhat.rhsa:tst:20140675001" version="602">
+   <red-def:object object_ref="oval:com.redhat.rhsa:obj:20140675001"/>
+   <red-def:state state_ref="oval:com.redhat.rhsa:ste:20140675002"/>
+  </red-def:rpminfo_test>
+  <red-def:rpminfo_test check="at least one" comment="Red Hat Enterprise Linux 7 Server is installed" id="oval:com.redhat.rhsa:tst:20140675002" version="602">
+   <red-def:object object_ref="oval:com.redhat.rhsa:obj:20140675002"/>
+   <red-def:state state_ref="oval:com.redhat.rhsa:ste:20140675002"/>
+  </red-def:rpminfo_test>
+  <red-def:rpminfo_test check="at least one" comment="python is earlier than 0:2.7.5-77.el7_6" id="oval:com.redhat.rhsa:tst:20190710005" version="602">
+   <red-def:object object_ref="oval:com.redhat.rhsa:obj:20152101005"/>
+   <red-def:state state_ref="oval:com.redhat.rhsa:ste:20190710003"/>
+  </red-def:rpminfo_test>
+  <red-def:rpminfo_test check="at least one" comment="python is signed with Red Hat redhatrelease2 key" id="oval:com.redhat.rhsa:tst:20152101006" version="604">
+   <red-def:object object_ref="oval:com.redhat.rhsa:obj:20152101005"/>
+   <red-def:state state_ref="oval:com.redhat.rhsa:ste:20140675001"/>
+  </red-def:rpminfo_test>
+ </tests>
+ <objects>
+  <red-def:rpminfo_object id="oval:com.redhat.rhsa:obj:20140675001" version="602">
+   <red-def:name>redhat-release-client</red-def:name>
+  </red-def:rpminfo_object>
+  <red-def:rpminfo_object id="oval:com.redhat.rhsa:obj:20140675002" version="602">
+   <red-def:name>redhat-release-server</red-def:name>
+  </red-def:rpminfo_object>
+  <red-def:rpminfo_object id="oval:com.redhat.rhsa:obj:20152101005" version="604">
+   <red-def:name>python</red-def:name>
+  </red-def:rpminfo_object>
+ </objects>
+ <states>
+  <red-def:rpminfo_state id="oval:com.redhat.rhsa:ste:20140675002" version="602">
+   <red-def:version operation="pattern match">^7[^\d]</red-def:version>
+  </red-def:rpminfo_state>
+  <red-def:rpminfo_state id="oval:com.redhat.rhsa:ste:20190710003" version="602">
+   <red-def:arch datatype="string" operation="pattern match">aarch64|ppc64|ppc64le|s390x|x86_64</red-def:arch>
+   <red-def:evr datatype="evr_string" operation="less than">0:2.7.5-77.el7_6</red-def:evr>
+  </red-def:rpminfo_state>
+  <red-def:rpminfo_state id="oval:com.redhat.rhsa:ste:20140675001" version="602">
+   <red-def:signature_keyid operation="equals">199e2f91fd431d51</red-def:signature_keyid>
+  </red-def:rpminfo_state>
+ </states>
+</oval_definitions>

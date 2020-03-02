@@ -1,0 +1,26 @@
+name: git-issues-blog workflow
+
+on: 
+  push:
+    branches:
+      - master
+    paths:
+      - 'posts/*.md'
+      - 'posts/*/*.md'
+      - 'posts/*/*/*.md'
+
+
+jobs:
+  git-issues-blog:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: Posts publish to issues
+      uses: Sep0lkit/git-issues-blog@v1.4
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        POSTS_PATH: 'posts'
