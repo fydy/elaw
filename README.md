@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-05 04:32:19"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-06 04:57:51"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,17 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [民事诉讼​流程](https://github.com/fydy/elaw/issues/51) <sup>0 :speech_balloon:</sup> 	 2020-03-06 04:57:13
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+为了能够让更多的当事人了解民事案件诉讼流程及执行相关问题，根据最新的法律法规及其司法解释，编制《民事诉讼流程及执行宝典》。第一步：立案前的准备工作一、固定证据和准备证据（1）身份证明能够证明原告、被告的身份信息，不同的案件提供的信息不一样，个人的一般包括身份证、暂住证或居住证、户口本、出生证明、亲属
+
+[更多>>>](https://github.com/fydy/elaw/issues/51)
+
+---
+
 
 #### [诉讼财产保全](https://github.com/fydy/elaw/issues/50) <sup>0 :speech_balloon:</sup> 	 2020-03-05 04:31:31
 
@@ -108,21 +119,6 @@ wps 2016 pro：R8R8P-MTT6F-KLRPM-J7CAB-PJM8C
 wps 2016 pro：7LR67-WTXPA-KLUHV-G
 
 [更多>>>](https://github.com/fydy/elaw/issues/47)
-
----
-
-
-#### [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46) <sup>0 :speech_balloon:</sup> 	 2020-02-17 05:09:37
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-- 创建ss.sh
-```
-filename="chain.zip"
-file_id="1KWG4c4ieT_4K9Rd7EYdXqH27Py1wRiNk"
-query=`curl -c ./cookie.txt -s -L "https://drive.google.com/uc?expo
-
-[更多>>>](https://github.com/fydy/elaw/issues/46)
 
 ---
 
@@ -193,8 +189,9 @@ query=`curl -c ./cookie.txt -s -L "https://drive.google.com/uc?expo
 </details>
 
 <details>
-<summary>POST	<sup>40:newspaper:</sup></summary>
+<summary>POST	<sup>41:newspaper:</sup></summary>
 
+- [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
