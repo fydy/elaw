@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-16 09:44:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-20 06:49:45"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,21 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52) <sup>0 :speech_balloon:</sup> 	 2020-03-20 06:48:59
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+chattr -R +a mulu  
+只能写入 不能删除 mulu
+
+chattr -R -a mulu
+取消上面的操作。
+
+[更多>>>](https://github.com/fydy/elaw/issues/52)
+
+---
+
 
 #### [民事诉讼​流程](https://github.com/fydy/elaw/issues/51) <sup>0 :speech_balloon:</sup> 	 2020-03-06 04:57:13
 
@@ -103,22 +118,6 @@ win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
 https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-9dd49b83-264a-477a-8fcc-2fdf5dbf61
 
 [更多>>>](https://github.com/fydy/elaw/issues/48)
-
----
-
-
-#### [WPS Office 2019](https://github.com/fydy/elaw/issues/47) <sup>0 :speech_balloon:</sup> 	 2020-02-21 05:13:07
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-- PC
-```
-694BF-YUDBG-EAR69-BPRGB-ATQXH
-QE2EV-2X2RH-9C2NW-UAGQN-HGD4C
-wps 2016 pro：R8R8P-MTT6F-KLRPM-J7CAB-PJM8C 
-wps 2016 pro：7LR67-WTXPA-KLUHV-G
-
-[更多>>>](https://github.com/fydy/elaw/issues/47)
 
 ---
 
@@ -189,8 +188,9 @@ wps 2016 pro：7LR67-WTXPA-KLUHV-G
 </details>
 
 <details>
-<summary>POST	<sup>41:newspaper:</sup></summary>
+<summary>POST	<sup>42:newspaper:</sup></summary>
 
+- [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
