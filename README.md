@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-22 04:00:22"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-25 11:09:22"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -208,7 +208,7 @@ https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-
 - [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Google Chrome 网页长截图方法](https://github.com/fydy/elaw/issues/29)  <sup>1 :speech_balloon:</sup>  	 
 - [ 商品房预约合同中不可归责于双方事由之实务认定](https://github.com/fydy/elaw/issues/28)  <sup>0 :speech_balloon:</sup>  	 
-- [Bitnami Shell](https://github.com/fydy/elaw/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+- [Bitnami Shell](https://github.com/fydy/elaw/issues/27)  <sup>1 :speech_balloon:</sup>  	 
 - [财务管理](https://github.com/fydy/elaw/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [行为上瘾](https://github.com/fydy/elaw/issues/25)  <sup>1 :speech_balloon:</sup>  	 
 - [无需插件让WordPress网站调用高德地图的方法](https://github.com/fydy/elaw/issues/24)  <sup>0 :speech_balloon:</sup>  	 
