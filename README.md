@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-25 11:09:22"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-26 14:37:27"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -108,7 +108,7 @@ win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
 ---
 
 
-#### [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48) <sup>0 :speech_balloon:</sup> 	 2020-02-26 11:13:57
+#### [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48) <sup>2 :speech_balloon:</sup> 	 2020-02-26 11:13:57
 
 :label: : [POST](https://github.com/fydy/isblog/labels/POST), [windows](https://github.com/fydy/isblog/labels/windows)
 
@@ -194,7 +194,7 @@ https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-
 - [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
-- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
+- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>2 :speech_balloon:</sup>  	 
 - [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>0 :speech_balloon:</sup>  	 
 - [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
@@ -314,7 +314,7 @@ https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-
 <summary>windows	<sup>3:newspaper:</sup></summary>
 
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
-- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>0 :speech_balloon:</sup>  	 
+- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>2 :speech_balloon:</sup>  	 
 - [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 
 
