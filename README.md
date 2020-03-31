@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/38"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-26 14:37:27"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-31 04:19:29"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,25 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [pip超时的问题](https://github.com/fydy/elaw/issues/53) <sup>0 :speech_balloon:</sup> 	 2020-03-31 04:18:50
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+解决方法有3种：
+-1.手动换源（推荐）
+
+手动指定源：
+
+在 pip 后面跟-i 来指定源，比如用豆瓣的源来安装 web.py 框架：
+```
+pip install numpy -i https://pypi.doubanio.com/simple/
+注意后面要有 /simple
+
+[更多>>>](https://github.com/fydy/elaw/issues/53)
+
+---
+
 
 #### [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52) <sup>0 :speech_balloon:</sup> 	 2020-03-20 06:48:59
 
@@ -104,20 +123,6 @@ win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
 ```
 
 [更多>>>](https://github.com/fydy/elaw/issues/49)
-
----
-
-
-#### [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48) <sup>2 :speech_balloon:</sup> 	 2020-02-26 11:13:57
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST), [windows](https://github.com/fydy/isblog/labels/windows)
-
-- 卸载旧版本Office
-从 PC 卸载 Office
-```
-https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-9dd49b83-264a-477a-8fcc-2fdf5dbf61
-
-[更多>>>](https://github.com/fydy/elaw/issues/48)
 
 ---
 
@@ -188,8 +193,9 @@ https://support.office.com/zh-cn/article/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-
 </details>
 
 <details>
-<summary>POST	<sup>42:newspaper:</sup></summary>
+<summary>POST	<sup>43:newspaper:</sup></summary>
 
+- [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 - [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
