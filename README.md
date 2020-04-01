@@ -17,9 +17,9 @@
 </p>
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/38"/>
+    <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-31 04:19:29"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-01 08:15:17"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -55,9 +55,26 @@ is
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54) <sup>0 :speech_balloon:</sup> 	 2020-04-01 08:14:34
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST), [python](https://github.com/fydy/isblog/labels/python)
+
+- Windows 下将目录下所有文件下的文件 拷贝到一个目录中：搜索` "." `
+
+- 安装python 及 win32com模块 ` pip install pypiwin32 `
+
+- 创建` LDA_RTF_TXT.py `
+```
+from glob import glob
+
+[更多>>>](https://github.com/fydy/elaw/issues/54)
+
+---
+
+
 #### [pip超时的问题](https://github.com/fydy/elaw/issues/53) <sup>0 :speech_balloon:</sup> 	 2020-03-31 04:18:50
 
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+:label: : [POST](https://github.com/fydy/isblog/labels/POST), [python](https://github.com/fydy/isblog/labels/python)
 
 解决方法有3种：
 -1.手动换源（推荐）
@@ -110,19 +127,6 @@ chattr -R -a mulu
 ![image](https://user-i
 
 [更多>>>](https://github.com/fydy/elaw/issues/50)
-
----
-
-
-#### [win10 ](https://github.com/fydy/elaw/issues/49) <sup>0 :speech_balloon:</sup> 	 2020-03-02 09:53:26
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST), [windows](https://github.com/fydy/isblog/labels/windows)
-
-```
-win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
-```
-
-[更多>>>](https://github.com/fydy/elaw/issues/49)
 
 ---
 
@@ -193,8 +197,9 @@ win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
 </details>
 
 <details>
-<summary>POST	<sup>43:newspaper:</sup></summary>
+<summary>POST	<sup>44:newspaper:</sup></summary>
 
+- [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
 - [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 - [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
@@ -312,6 +317,15 @@ win10 Enterprise : M7XM2-97NMJ-RQGMK-XMPFC-W2QF4
 
 - [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
 - [图书馆数字资源校外使用账号](https://github.com/fydy/elaw/issues/34)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>python	<sup>2:newspaper:</sup></summary>
+
+- [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
+- [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
