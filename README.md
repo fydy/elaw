@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-01 08:15:17"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-07 08:10:04"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,23 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Windows 如何快速批量提取文件名](https://github.com/fydy/elaw/issues/55) <sup>0 :speech_balloon:</sup> 	 2020-04-07 08:09:24
+
+:label: : [windows](https://github.com/fydy/isblog/labels/windows)
+
+- 定位需批量提取文件名所在的文件夹
+- 右键单击从下拉菜单中选择新建命令，新建一个文本文件，并输入如下命令，并保存：
+```
+dir *.*/b>目录清单.txt
+```
+- 修改扩展名txt为bat，回车进行确定，弹出提示信息继续确定即可。
+- 双击运行该文件，这个时候会在统一目录下
+
+[更多>>>](https://github.com/fydy/elaw/issues/55)
+
+---
+
 
 #### [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54) <sup>0 :speech_balloon:</sup> 	 2020-04-01 08:14:34
 
@@ -113,20 +130,6 @@ chattr -R -a mulu
 为了能够让更多的当事人了解民事案件诉讼流程及执行相关问题，根据最新的法律法规及其司法解释，编制《民事诉讼流程及执行宝典》。第一步：立案前的准备工作一、固定证据和准备证据（1）身份证明能够证明原告、被告的身份信息，不同的案件提供的信息不一样，个人的一般包括身份证、暂住证或居住证、户口本、出生证明、亲属
 
 [更多>>>](https://github.com/fydy/elaw/issues/51)
-
----
-
-
-#### [诉讼财产保全](https://github.com/fydy/elaw/issues/50) <sup>0 :speech_balloon:</sup> 	 2020-03-05 04:31:31
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-申请诉讼财产保全流程图
-![image](https://user-images.githubusercontent.com/39726855/75947995-246b0c00-5edd-11ea-9d99-5b5010fb0b53.png)
-
-![image](https://user-i
-
-[更多>>>](https://github.com/fydy/elaw/issues/50)
 
 ---
 
@@ -331,8 +334,9 @@ chattr -R -a mulu
 </details>
 
 <details>
-<summary>windows	<sup>3:newspaper:</sup></summary>
+<summary>windows	<sup>4:newspaper:</sup></summary>
 
+- [Windows 如何快速批量提取文件名](https://github.com/fydy/elaw/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>2 :speech_balloon:</sup>  	 
 - [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
