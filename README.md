@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-07 08:10:04"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-09 03:39:44"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -59,13 +59,14 @@ is
 
 :label: : [windows](https://github.com/fydy/isblog/labels/windows)
 
+## 快速批量提取文件名
 - 定位需批量提取文件名所在的文件夹
 - 右键单击从下拉菜单中选择新建命令，新建一个文本文件，并输入如下命令，并保存：
 ```
 dir *.*/b>目录清单.txt
 ```
 - 修改扩展名txt为bat，回车进行确定，弹出提示信息继续确定即可。
-- 双击运行该文件，这个时候会在统一目录下
+- 双击运行该
 
 [更多>>>](https://github.com/fydy/elaw/issues/55)
 
