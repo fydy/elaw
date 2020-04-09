@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-09 03:39:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-09 04:10:20"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
