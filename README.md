@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-09 04:10:20"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-15 02:00:49"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,19 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-04-15 02:00:03
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+为规范诉讼参与人和法官在民商事诉讼过程中运用互联网电子数据证据的举证、质证和认证行为，根据《中华人民共和国民事诉讼法》《中华人民共和国电子签名法》《最高人民法院关于适用<中华人民共和国民事诉讼法>的解释》《最高人民法院关于民事诉讼证据的若干规定》等法律规定，制定本规程。
+
+第一条  本规程所称互
+
+[更多>>>](https://github.com/fydy/elaw/issues/56)
+
+---
+
 
 #### [Windows 如何快速批量提取文件名](https://github.com/fydy/elaw/issues/55) <sup>0 :speech_balloon:</sup> 	 2020-04-07 08:09:24
 
@@ -124,17 +137,6 @@ chattr -R -a mulu
 ---
 
 
-#### [民事诉讼​流程](https://github.com/fydy/elaw/issues/51) <sup>0 :speech_balloon:</sup> 	 2020-03-06 04:57:13
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-为了能够让更多的当事人了解民事案件诉讼流程及执行相关问题，根据最新的法律法规及其司法解释，编制《民事诉讼流程及执行宝典》。第一步：立案前的准备工作一、固定证据和准备证据（1）身份证明能够证明原告、被告的身份信息，不同的案件提供的信息不一样，个人的一般包括身份证、暂住证或居住证、户口本、出生证明、亲属
-
-[更多>>>](https://github.com/fydy/elaw/issues/51)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details close="close">
@@ -201,8 +203,9 @@ chattr -R -a mulu
 </details>
 
 <details>
-<summary>POST	<sup>44:newspaper:</sup></summary>
+<summary>POST	<sup>45:newspaper:</sup></summary>
 
+- [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
 - [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 - [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
