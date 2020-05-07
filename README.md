@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-18 11:24:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-07 10:16:52"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,17 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-05-07 10:16:08
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+阅读提示：开庭审理涵盖了当事人主张、答辩、证据出示、质证、事实认定、法律辩论、法律适用，直至得出案件最终结果的全过程,可以说是民事诉讼程序运作的核心，也是民事诉讼法最重要的制度安排之一。本文以《民事诉讼法》第十二章第三节“开庭审理”的规定为基本立论依据，结合新修订的《最高人民法院关于适用〈中华人民共
+
+[更多>>>](https://github.com/fydy/elaw/issues/57)
+
+---
+
 
 #### [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-04-15 02:00:03
 
@@ -118,21 +129,6 @@ pip install numpy -i https://pypi.doubanio.com/simple/
 注意后面要有 /simple
 
 [更多>>>](https://github.com/fydy/elaw/issues/53)
-
----
-
-
-#### [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52) <sup>0 :speech_balloon:</sup> 	 2020-03-20 06:48:59
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-chattr -R +a mulu  
-只能写入 不能删除 mulu
-
-chattr -R -a mulu
-取消上面的操作。
-
-[更多>>>](https://github.com/fydy/elaw/issues/52)
 
 ---
 
@@ -203,8 +199,9 @@ chattr -R -a mulu
 </details>
 
 <details>
-<summary>POST	<sup>45:newspaper:</sup></summary>
+<summary>POST	<sup>46:newspaper:</sup></summary>
 
+- [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
 - [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
