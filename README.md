@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-08-28 01:37:16"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-28 01:39:14"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -61,13 +61,11 @@ is
 
 家庭教育对于孩子的成长而言有着极其重大的影响，不同家庭的教育方式直接影响到孩子日后的成长。
 
-<center>01</center>
-
-<center>作家罗松讲过两个故事。</center>
+## 01 作家罗松讲过两个故事。
 
 - 第一个故事关于女孩：
 ```
-一个步入青春期的高中女孩凌晨才回家，过了几天，父亲约她
+一个步入青春期的高中女孩凌晨才回家，过了几天，父亲约她外出喝酒：“尽量喝，喝醉，爸爸带你回家。”那一晚，女孩醉倒在吧台上。
 
 [更多>>>](https://github.com/fydy/elaw/issues/58)
 
