@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-27 09:39:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-28 01:37:16"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,25 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-08-28 01:36:31
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+家庭教育对于孩子的成长而言有着极其重大的影响，不同家庭的教育方式直接影响到孩子日后的成长。
+
+<center>01</center>
+
+<center>作家罗松讲过两个故事。</center>
+
+- 第一个故事关于女孩：
+```
+一个步入青春期的高中女孩凌晨才回家，过了几天，父亲约她
+
+[更多>>>](https://github.com/fydy/elaw/issues/58)
+
+---
+
 
 #### [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-05-07 10:16:08
 
@@ -110,25 +129,6 @@ dir *.*/b>目录清单.txt
 from glob import glob
 
 [更多>>>](https://github.com/fydy/elaw/issues/54)
-
----
-
-
-#### [pip超时的问题](https://github.com/fydy/elaw/issues/53) <sup>0 :speech_balloon:</sup> 	 2020-03-31 04:18:50
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST), [python](https://github.com/fydy/isblog/labels/python)
-
-解决方法有3种：
--1.手动换源（推荐）
-
-手动指定源：
-
-在 pip 后面跟-i 来指定源，比如用豆瓣的源来安装 web.py 框架：
-```
-pip install numpy -i https://pypi.doubanio.com/simple/
-注意后面要有 /simple
-
-[更多>>>](https://github.com/fydy/elaw/issues/53)
 
 ---
 
@@ -199,8 +199,9 @@ pip install numpy -i https://pypi.doubanio.com/simple/
 </details>
 
 <details>
-<summary>POST	<sup>46:newspaper:</sup></summary>
+<summary>POST	<sup>47:newspaper:</sup></summary>
 
+- [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 - [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
