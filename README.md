@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:11:05"/>
+    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:16:55"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,21 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [游戏合规系列（四）：网络游戏套版号的法律风险](https://github.com/fydy/elaw/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:16:10
+
+:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
+
+　　本篇为系列文章第四篇：网络游戏套版号的法律风险。
+
+　　一、网络游戏套版号的原因
+
+　　我国的网络游戏行业在2010年后迎来大发展，入局网络游戏行业的企业不断增多，每年新增上万款网络游戏，市面上开始出现各类型的网络游戏。但由于出版行政监管部门每年下发的版号有限，并且审批时限较长，版号市场
+
+[更多>>>](https://github.com/fydy/elaw/issues/63)
+
+---
+
 
 #### [游戏合规系列（三）：网络游戏利用马甲包买量的合规风险](https://github.com/fydy/elaw/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:10:23
 
@@ -107,23 +122,6 @@ is
 　　网络游戏属于经营性互联网信息服务业务。根据《中华人民共和国电信条例》及《互联网信息服务管理办法》等相关规定，
 
 [更多>>>](https://github.com/fydy/elaw/issues/59)
-
----
-
-
-#### [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-08-28 01:36:31
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-家庭教育对于孩子的成长而言有着极其重大的影响，不同家庭的教育方式直接影响到孩子日后的成长。
-
-## 01 作家罗松讲过两个故事。
-
-- 第一个故事关于女孩：
-```
-一个步入青春期的高中女孩凌晨才回家，过了几天，父亲约她外出喝酒：“尽量喝，喝醉，爸爸带你回家。”那一晚，女孩醉倒在吧台上。
-
-[更多>>>](https://github.com/fydy/elaw/issues/58)
 
 ---
 
@@ -488,8 +486,9 @@ is
 </details>
 
 <details>
-<summary>网络游戏	<sup>4:newspaper:</sup></summary>
+<summary>网络游戏	<sup>5:newspaper:</sup></summary>
 
+- [游戏合规系列（四）：网络游戏套版号的法律风险](https://github.com/fydy/elaw/issues/63)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（三）：网络游戏利用马甲包买量的合规风险](https://github.com/fydy/elaw/issues/62)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60)  <sup>0 :speech_balloon:</sup>  	 
