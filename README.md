@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-13 04:16:40"/>
+    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:05:45"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -55,14 +55,28 @@ is
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:05:05
+
+:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
+
+　　一、行业争论：
+
+　　游戏公测无须版号？
+
+　　根据此前文章[《游戏合规系列：游戏无版号运营的法律风险》](https://github.com/fydy/elaw/issues/60)，我们知道网络游戏无版号运营，网络游戏公司轻则被科以罚款，重则有牢狱之灾。特别在近年监管政策骤然缩紧的
+
+[更多>>>](https://github.com/fydy/elaw/issues/61)
+
+---
+
+
 #### [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:15:58
 
 :label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
 
-网络游戏的无版号运营是指什么？什么是游戏公测？怎么判断一款游戏是否属于马甲包？套版号又是怎么回事？上述事项各自存在哪些法律风险？为解答上述问题，笔者将于近期推出系列文章，旨在回应社会关切，为读者解疑释惑，析事明理，助力游戏企业合规运营。
+　　网络游戏的无版号运营是指什么？什么是游戏公测？怎么判断一款游戏是否属于马甲包？套版号又是怎么回事？上述事项各自存在哪些法律风险？为解答上述问题，笔者将于近期推出系列文章，旨在回应社会关切，为读者解疑释惑，析事明理，助力游戏企业合规运营。
 
 　　本篇为系列文章第一篇：游戏无版号运营的法律风险。
-
 
 [更多>>>](https://github.com/fydy/elaw/issues/60)
 
@@ -106,19 +120,6 @@ is
 阅读提示：开庭审理涵盖了当事人主张、答辩、证据出示、质证、事实认定、法律辩论、法律适用，直至得出案件最终结果的全过程,可以说是民事诉讼程序运作的核心，也是民事诉讼法最重要的制度安排之一。本文以《民事诉讼法》第十二章第三节“开庭审理”的规定为基本立论依据，结合新修订的《最高人民法院关于适用〈中华人民共
 
 [更多>>>](https://github.com/fydy/elaw/issues/57)
-
----
-
-
-#### [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-04-15 02:00:03
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-为规范诉讼参与人和法官在民商事诉讼过程中运用互联网电子数据证据的举证、质证和认证行为，根据《中华人民共和国民事诉讼法》《中华人民共和国电子签名法》《最高人民法院关于适用<中华人民共和国民事诉讼法>的解释》《最高人民法院关于民事诉讼证据的若干规定》等法律规定，制定本规程。
-
-第一条  本规程所称互
-
-[更多>>>](https://github.com/fydy/elaw/issues/56)
 
 ---
 
@@ -483,8 +484,9 @@ is
 </details>
 
 <details>
-<summary>网络游戏	<sup>2:newspaper:</sup></summary>
+<summary>网络游戏	<sup>3:newspaper:</sup></summary>
 
+- [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 
