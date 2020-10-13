@@ -17,9 +17,9 @@
 </p>
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/39"/>
+    <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-08-28 01:39:14"/>
+    <img src="https://badgen.net/badge/last-commit/2020-10-13 04:06:22"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,19 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:05:43
+
+:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
+
+　　一般而言，网络游戏企业本身需要取得ICP证，文网文证，网络出版许可证。此外，网络游戏企业运营的网络游戏还需要在上线前取得游戏版号，并在上线后取得文化部门的备案。
+　　1.ICP证
+　　网络游戏属于经营性互联网信息服务业务。根据《中华人民共和国电信条例》及《互联网信息服务管理办法》等相关规定，
+
+[更多>>>](https://github.com/fydy/elaw/issues/59)
+
+---
+
 
 #### [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-08-28 01:36:31
 
@@ -110,23 +123,6 @@ dir *.*/b>目录清单.txt
 - 双击运行该
 
 [更多>>>](https://github.com/fydy/elaw/issues/55)
-
----
-
-
-#### [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54) <sup>0 :speech_balloon:</sup> 	 2020-04-01 08:14:34
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST), [python](https://github.com/fydy/isblog/labels/python)
-
-- Windows 下将目录下所有文件下的文件 拷贝到一个目录中：搜索` "." `
-
-- 安装python 及 win32com模块 ` pip install pypiwin32 `
-
-- 创建` LDA_RTF_TXT.py `
-```
-from glob import glob
-
-[更多>>>](https://github.com/fydy/elaw/issues/54)
 
 ---
 
@@ -486,6 +482,14 @@ from glob import glob
 
 - [知乎读书-如何有效提问](https://github.com/fydy/elaw/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 - [课程笔记](https://github.com/fydy/elaw/issues/13)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>网络游戏	<sup>1:newspaper:</sup></summary>
+
+- [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
