@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-13 04:06:22"/>
+    <img src="https://badgen.net/badge/last-commit/2020-10-13 04:16:40"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,20 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:15:58
+
+:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
+
+网络游戏的无版号运营是指什么？什么是游戏公测？怎么判断一款游戏是否属于马甲包？套版号又是怎么回事？上述事项各自存在哪些法律风险？为解答上述问题，笔者将于近期推出系列文章，旨在回应社会关切，为读者解疑释惑，析事明理，助力游戏企业合规运营。
+
+　　本篇为系列文章第一篇：游戏无版号运营的法律风险。
+
+
+[更多>>>](https://github.com/fydy/elaw/issues/60)
+
+---
+
 
 #### [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:05:43
 
@@ -105,24 +119,6 @@ is
 第一条  本规程所称互
 
 [更多>>>](https://github.com/fydy/elaw/issues/56)
-
----
-
-
-#### [Windows 如何快速批量提取文件名](https://github.com/fydy/elaw/issues/55) <sup>0 :speech_balloon:</sup> 	 2020-04-07 08:09:24
-
-:label: : [windows](https://github.com/fydy/isblog/labels/windows)
-
-## 快速批量提取文件名
-- 定位需批量提取文件名所在的文件夹
-- 右键单击从下拉菜单中选择新建命令，新建一个文本文件，并输入如下命令，并保存：
-```
-dir *.*/b>目录清单.txt
-```
-- 修改扩展名txt为bat，回车进行确定，弹出提示信息继续确定即可。
-- 双击运行该
-
-[更多>>>](https://github.com/fydy/elaw/issues/55)
 
 ---
 
@@ -487,8 +483,9 @@ dir *.*/b>目录清单.txt
 </details>
 
 <details>
-<summary>网络游戏	<sup>1:newspaper:</sup></summary>
+<summary>网络游戏	<sup>2:newspaper:</sup></summary>
 
+- [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 
 
