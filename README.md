@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:05:45"/>
+    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:11:05"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,21 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [游戏合规系列（三）：网络游戏利用马甲包买量的合规风险](https://github.com/fydy/elaw/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:10:23
+
+:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
+
+　　本篇为系列文章第三篇：网络游戏利用马甲包买量的合规风险。
+
+　　（一）网络游戏企业的马甲包买量玩法
+
+　　所谓的马甲包买量（马甲包也有切支付的功能，因为不是本文的研究重点，略过不表），是指游戏公司将一款网络游戏，通过改变游戏名称、故事情节、任务内容、人物性格、角色特征、互动功能等内容，重
+
+[更多>>>](https://github.com/fydy/elaw/issues/62)
+
+---
+
 
 #### [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:05:05
 
@@ -109,17 +124,6 @@ is
 一个步入青春期的高中女孩凌晨才回家，过了几天，父亲约她外出喝酒：“尽量喝，喝醉，爸爸带你回家。”那一晚，女孩醉倒在吧台上。
 
 [更多>>>](https://github.com/fydy/elaw/issues/58)
-
----
-
-
-#### [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-05-07 10:16:08
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-阅读提示：开庭审理涵盖了当事人主张、答辩、证据出示、质证、事实认定、法律辩论、法律适用，直至得出案件最终结果的全过程,可以说是民事诉讼程序运作的核心，也是民事诉讼法最重要的制度安排之一。本文以《民事诉讼法》第十二章第三节“开庭审理”的规定为基本立论依据，结合新修订的《最高人民法院关于适用〈中华人民共
-
-[更多>>>](https://github.com/fydy/elaw/issues/57)
 
 ---
 
@@ -484,8 +488,9 @@ is
 </details>
 
 <details>
-<summary>网络游戏	<sup>3:newspaper:</sup></summary>
+<summary>网络游戏	<sup>4:newspaper:</sup></summary>
 
+- [游戏合规系列（三）：网络游戏利用马甲包买量的合规风险](https://github.com/fydy/elaw/issues/62)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 - [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59)  <sup>0 :speech_balloon:</sup>  	 
