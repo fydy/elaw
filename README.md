@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-13 06:16:55"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-21 06:09:10"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,30 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65) <sup>0 :speech_balloon:</sup> 	 2021-05-21 06:08:40
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+![dd73cf78b6e6f07819568c69f79152da_1920x1376](https://user-images.githubusercontent.com/39726855/119089735-3337d300-ba3d-11eb-8b0e-e585af3cb0ad.jpg)
+
+
+[更多>>>](https://github.com/fydy/elaw/issues/65)
+
+---
+
+
+#### [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64) <sup>0 :speech_balloon:</sup> 	 2020-10-28 08:55:02
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+![image](https://user-images.githubusercontent.com/39726855/97413834-3737c280-193e-11eb-971e-ef04d02c41fa.png)
+
+
+[更多>>>](https://github.com/fydy/elaw/issues/64)
+
+---
+
 
 #### [游戏合规系列（四）：网络游戏套版号的法律风险](https://github.com/fydy/elaw/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:16:10
 
@@ -96,32 +120,6 @@ is
 　　根据此前文章[《游戏合规系列：游戏无版号运营的法律风险》](https://github.com/fydy/elaw/issues/60)，我们知道网络游戏无版号运营，网络游戏公司轻则被科以罚款，重则有牢狱之灾。特别在近年监管政策骤然缩紧的
 
 [更多>>>](https://github.com/fydy/elaw/issues/61)
-
----
-
-
-#### [游戏合规系列（一）：游戏无版号运营的法律风险](https://github.com/fydy/elaw/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:15:58
-
-:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
-
-　　网络游戏的无版号运营是指什么？什么是游戏公测？怎么判断一款游戏是否属于马甲包？套版号又是怎么回事？上述事项各自存在哪些法律风险？为解答上述问题，笔者将于近期推出系列文章，旨在回应社会关切，为读者解疑释惑，析事明理，助力游戏企业合规运营。
-
-　　本篇为系列文章第一篇：游戏无版号运营的法律风险。
-
-[更多>>>](https://github.com/fydy/elaw/issues/60)
-
----
-
-
-#### [网络游戏运营企业需要具备哪些基本资质？](https://github.com/fydy/elaw/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-10-13 04:05:43
-
-:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
-
-　　一般而言，网络游戏企业本身需要取得ICP证，文网文证，网络出版许可证。此外，网络游戏企业运营的网络游戏还需要在上线前取得游戏版号，并在上线后取得文化部门的备案。
-　　1.ICP证
-　　网络游戏属于经营性互联网信息服务业务。根据《中华人民共和国电信条例》及《互联网信息服务管理办法》等相关规定，
-
-[更多>>>](https://github.com/fydy/elaw/issues/59)
 
 ---
 
@@ -192,8 +190,10 @@ is
 </details>
 
 <details>
-<summary>POST	<sup>47:newspaper:</sup></summary>
+<summary>POST	<sup>49:newspaper:</sup></summary>
 
+- [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
+- [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64)  <sup>0 :speech_balloon:</sup>  	 
 - [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 - [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
