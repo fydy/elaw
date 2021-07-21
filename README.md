@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-20 08:49:22"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-21 03:21:38"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -205,7 +205,7 @@ is
 - [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>3 :speech_balloon:</sup>  	 
 - [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
-- [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>2 :speech_balloon:</sup>  	 
+- [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>3 :speech_balloon:</sup>  	 
 - [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 - [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
 - [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
