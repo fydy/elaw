@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-23 05:26:03"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-06 08:56:29"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,19 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66) <sup>0 :speech_balloon:</sup> 	 2022-01-06 08:55:56
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+## 方法一、修复逻辑坏区
+1、点击左下角的开始-运行，或者使用快捷键WIN+R键打开运行窗口，然后输入cmd打开dos窗口。
+![image](https://user-images.githubusercontent.com/39726855/148356242-ad615b83-0d4b-
+
+[更多>>>](https://github.com/fydy/elaw/issues/66)
+
+---
+
 
 #### [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65) <sup>0 :speech_balloon:</sup> 	 2021-05-21 06:08:40
 
@@ -105,21 +118,6 @@ is
 　　所谓的马甲包买量（马甲包也有切支付的功能，因为不是本文的研究重点，略过不表），是指游戏公司将一款网络游戏，通过改变游戏名称、故事情节、任务内容、人物性格、角色特征、互动功能等内容，重
 
 [更多>>>](https://github.com/fydy/elaw/issues/62)
-
----
-
-
-#### [游戏合规系列（二）：游戏公测无需版号？](https://github.com/fydy/elaw/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:05:05
-
-:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
-
-　　一、行业争论：
-
-　　游戏公测无须版号？
-
-　　根据此前文章[《游戏合规系列：游戏无版号运营的法律风险》](https://github.com/fydy/elaw/issues/60)，我们知道网络游戏无版号运营，网络游戏公司轻则被科以罚款，重则有牢狱之灾。特别在近年监管政策骤然缩紧的
-
-[更多>>>](https://github.com/fydy/elaw/issues/61)
 
 ---
 
@@ -176,71 +174,6 @@ is
 <details>
 <summary>:running_man:	<sup>0:newspaper:</sup></summary>
 
-
-
-</details>
-
-<details>
-<summary>PAGE	<sup>2:newspaper:</sup></summary>
-
-- [网上邻居](https://github.com/fydy/elaw/issues/30)  <sup>0 :speech_balloon:</sup>  	 
-- [关于我](https://github.com/fydy/elaw/issues/4)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>POST	<sup>49:newspaper:</sup></summary>
-
-- [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
-- [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64)  <sup>0 :speech_balloon:</sup>  	 
-- [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58)  <sup>0 :speech_balloon:</sup>  	 
-- [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57)  <sup>0 :speech_balloon:</sup>  	 
-- [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
-- [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
-- [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
-- [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
-- [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
-- [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
-- [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
-- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>3 :speech_balloon:</sup>  	 
-- [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
-- [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>4 :speech_balloon:</sup>  	 
-- [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
-- [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
-- [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
-- [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
-- [电影经典励志金句](https://github.com/fydy/elaw/issues/35)  <sup>0 :speech_balloon:</sup>  	 
-- [图书馆数字资源校外使用账号](https://github.com/fydy/elaw/issues/34)  <sup>0 :speech_balloon:</sup>  	 
-- [自动为WordPress文章添加特色图像](https://github.com/fydy/elaw/issues/33)  <sup>0 :speech_balloon:</sup>  	 
-- [离婚析产 附有关规定](https://github.com/fydy/elaw/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>0 :speech_balloon:</sup>  	 
-- [Google Chrome 网页长截图方法](https://github.com/fydy/elaw/issues/29)  <sup>1 :speech_balloon:</sup>  	 
-- [ 商品房预约合同中不可归责于双方事由之实务认定](https://github.com/fydy/elaw/issues/28)  <sup>1 :speech_balloon:</sup>  	 
-- [Bitnami Shell](https://github.com/fydy/elaw/issues/27)  <sup>1 :speech_balloon:</sup>  	 
-- [财务管理](https://github.com/fydy/elaw/issues/26)  <sup>0 :speech_balloon:</sup>  	 
-- [行为上瘾](https://github.com/fydy/elaw/issues/25)  <sup>1 :speech_balloon:</sup>  	 
-- [无需插件让WordPress网站调用高德地图的方法](https://github.com/fydy/elaw/issues/24)  <sup>0 :speech_balloon:</sup>  	 
-- [Wordfence 安全插件专业版破解教程](https://github.com/fydy/elaw/issues/23)  <sup>0 :speech_balloon:</sup>  	 
-- [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
-- [Chrome安卓版 优化设置教程（chrome://flags）](https://github.com/fydy/elaw/issues/20)  <sup>0 :speech_balloon:</sup>  	 
-- [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
-- [Git常用命令总结](https://github.com/fydy/elaw/issues/17)  <sup>0 :speech_balloon:</sup>  	 
-- [wordpress常用主题、插件优化](https://github.com/fydy/elaw/issues/16)  <sup>0 :speech_balloon:</sup>  	 
-- [国内外优秀前端 CDN，Google Fonts 国内镜像](https://github.com/fydy/elaw/issues/15)  <sup>0 :speech_balloon:</sup>  	 
-- [知乎读书-如何有效提问](https://github.com/fydy/elaw/issues/14)  <sup>0 :speech_balloon:</sup>  	 
-- [课程笔记](https://github.com/fydy/elaw/issues/13)  <sup>0 :speech_balloon:</sup>  	 
-- [《学会提问》，让你拥有深度思考的能力](https://github.com/fydy/elaw/issues/12)  <sup>0 :speech_balloon:</sup>  	 
-- [高院法官谈：律师如何举证、质证？](https://github.com/fydy/elaw/issues/11)  <sup>0 :speech_balloon:</sup>  	 
-- [律师的礼仪（二）](https://github.com/fydy/elaw/issues/10)  <sup>0 :speech_balloon:</sup>  	 
-- [内向和胆小是个伪命题！](https://github.com/fydy/elaw/issues/9)  <sup>0 :speech_balloon:</sup>  	 
-- [ 律师的礼仪（一）](https://github.com/fydy/elaw/issues/8)  <sup>0 :speech_balloon:</sup>  	 
-- [劳动争议案件实务](https://github.com/fydy/elaw/issues/7)  <sup>1 :speech_balloon:</sup>  	 
-- [重点融资条款释义](https://github.com/fydy/elaw/issues/6)  <sup>1 :speech_balloon:</sup>  	 
-- [民事诉讼实务技巧](https://github.com/fydy/elaw/issues/5)  <sup>0 :speech_balloon:</sup>  	 
-- [用Github Issues搭建博客](https://github.com/fydy/elaw/issues/3)  <sup>0 :speech_balloon:</sup>  	 
-- [公司常见的劳动用工法律风险](https://github.com/fydy/elaw/issues/2)  <sup>1 :speech_balloon:</sup>  	 
-- [电商平台商业模式研究-以拼多多为例【网络转载】](https://github.com/fydy/elaw/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -306,6 +239,72 @@ is
 <summary>message	<sup>1:newspaper:</sup></summary>
 
 - [关于我](https://github.com/fydy/elaw/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>PAGE	<sup>2:newspaper:</sup></summary>
+
+- [网上邻居](https://github.com/fydy/elaw/issues/30)  <sup>0 :speech_balloon:</sup>  	 
+- [关于我](https://github.com/fydy/elaw/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>POST	<sup>50:newspaper:</sup></summary>
+
+- [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66)  <sup>0 :speech_balloon:</sup>  	 
+- [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
+- [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64)  <sup>0 :speech_balloon:</sup>  	 
+- [家庭教育对孩子成长的影响](https://github.com/fydy/elaw/issues/58)  <sup>0 :speech_balloon:</sup>  	 
+- [民事诉讼庭审程序](https://github.com/fydy/elaw/issues/57)  <sup>0 :speech_balloon:</sup>  	 
+- [互联网电子数据证据举证、认证规程(试行)](https://github.com/fydy/elaw/issues/56)  <sup>0 :speech_balloon:</sup>  	 
+- [将DOC、RTF格式文件批量转为TXT格式文件](https://github.com/fydy/elaw/issues/54)  <sup>0 :speech_balloon:</sup>  	 
+- [pip超时的问题](https://github.com/fydy/elaw/issues/53)  <sup>0 :speech_balloon:</sup>  	 
+- [linux目录权限只能写入不能删除](https://github.com/fydy/elaw/issues/52)  <sup>0 :speech_balloon:</sup>  	 
+- [民事诉讼​流程](https://github.com/fydy/elaw/issues/51)  <sup>0 :speech_balloon:</sup>  	 
+- [诉讼财产保全](https://github.com/fydy/elaw/issues/50)  <sup>0 :speech_balloon:</sup>  	 
+- [win10 ](https://github.com/fydy/elaw/issues/49)  <sup>0 :speech_balloon:</sup>  	 
+- [Office2019 VOL下载、安装与激活](https://github.com/fydy/elaw/issues/48)  <sup>3 :speech_balloon:</sup>  	 
+- [WPS Office 2019](https://github.com/fydy/elaw/issues/47)  <sup>0 :speech_balloon:</sup>  	 
+- [linux服务器下载google drive大文件](https://github.com/fydy/elaw/issues/46)  <sup>4 :speech_balloon:</sup>  	 
+- [使用fiddler实现手机抓包](https://github.com/fydy/elaw/issues/45)  <sup>0 :speech_balloon:</sup>  	 
+- [在 CentOS 7 下安装配置 Shadowsocks](https://github.com/fydy/elaw/issues/38)  <sup>1 :speech_balloon:</sup>  	 
+- [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
+- [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
+- [电影经典励志金句](https://github.com/fydy/elaw/issues/35)  <sup>0 :speech_balloon:</sup>  	 
+- [图书馆数字资源校外使用账号](https://github.com/fydy/elaw/issues/34)  <sup>0 :speech_balloon:</sup>  	 
+- [自动为WordPress文章添加特色图像](https://github.com/fydy/elaw/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+- [离婚析产 附有关规定](https://github.com/fydy/elaw/issues/32)  <sup>0 :speech_balloon:</sup>  	 
+- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>0 :speech_balloon:</sup>  	 
+- [Google Chrome 网页长截图方法](https://github.com/fydy/elaw/issues/29)  <sup>1 :speech_balloon:</sup>  	 
+- [ 商品房预约合同中不可归责于双方事由之实务认定](https://github.com/fydy/elaw/issues/28)  <sup>1 :speech_balloon:</sup>  	 
+- [Bitnami Shell](https://github.com/fydy/elaw/issues/27)  <sup>1 :speech_balloon:</sup>  	 
+- [财务管理](https://github.com/fydy/elaw/issues/26)  <sup>0 :speech_balloon:</sup>  	 
+- [行为上瘾](https://github.com/fydy/elaw/issues/25)  <sup>1 :speech_balloon:</sup>  	 
+- [无需插件让WordPress网站调用高德地图的方法](https://github.com/fydy/elaw/issues/24)  <sup>0 :speech_balloon:</sup>  	 
+- [Wordfence 安全插件专业版破解教程](https://github.com/fydy/elaw/issues/23)  <sup>0 :speech_balloon:</sup>  	 
+- [解决windows系统80端口被占用问题](https://github.com/fydy/elaw/issues/22)  <sup>0 :speech_balloon:</sup>  	 
+- [Chrome安卓版 优化设置教程（chrome://flags）](https://github.com/fydy/elaw/issues/20)  <sup>0 :speech_balloon:</sup>  	 
+- [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
+- [Git常用命令总结](https://github.com/fydy/elaw/issues/17)  <sup>0 :speech_balloon:</sup>  	 
+- [wordpress常用主题、插件优化](https://github.com/fydy/elaw/issues/16)  <sup>0 :speech_balloon:</sup>  	 
+- [国内外优秀前端 CDN，Google Fonts 国内镜像](https://github.com/fydy/elaw/issues/15)  <sup>0 :speech_balloon:</sup>  	 
+- [知乎读书-如何有效提问](https://github.com/fydy/elaw/issues/14)  <sup>0 :speech_balloon:</sup>  	 
+- [课程笔记](https://github.com/fydy/elaw/issues/13)  <sup>0 :speech_balloon:</sup>  	 
+- [《学会提问》，让你拥有深度思考的能力](https://github.com/fydy/elaw/issues/12)  <sup>0 :speech_balloon:</sup>  	 
+- [高院法官谈：律师如何举证、质证？](https://github.com/fydy/elaw/issues/11)  <sup>0 :speech_balloon:</sup>  	 
+- [律师的礼仪（二）](https://github.com/fydy/elaw/issues/10)  <sup>0 :speech_balloon:</sup>  	 
+- [内向和胆小是个伪命题！](https://github.com/fydy/elaw/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+- [ 律师的礼仪（一）](https://github.com/fydy/elaw/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+- [劳动争议案件实务](https://github.com/fydy/elaw/issues/7)  <sup>1 :speech_balloon:</sup>  	 
+- [重点融资条款释义](https://github.com/fydy/elaw/issues/6)  <sup>1 :speech_balloon:</sup>  	 
+- [民事诉讼实务技巧](https://github.com/fydy/elaw/issues/5)  <sup>0 :speech_balloon:</sup>  	 
+- [用Github Issues搭建博客](https://github.com/fydy/elaw/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+- [公司常见的劳动用工法律风险](https://github.com/fydy/elaw/issues/2)  <sup>1 :speech_balloon:</sup>  	 
+- [电商平台商业模式研究-以拼多多为例【网络转载】](https://github.com/fydy/elaw/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
