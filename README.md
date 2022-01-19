@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-19 06:54:18"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-19 06:55:54"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -55,7 +55,7 @@ is
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [住在北京地铁最后一站 专注自人物](https://github.com/fydy/elaw/issues/67) <sup>0 :speech_balloon:</sup> 	 2022-01-19 06:53:49
+#### [住在北京地铁最后一站 转载自人物](https://github.com/fydy/elaw/issues/67) <sup>0 :speech_balloon:</sup> 	 2022-01-19 06:53:49
 
 :label: : [POST](https://github.com/fydy/isblog/labels/POST)
 
@@ -252,7 +252,7 @@ is
 <details>
 <summary>POST	<sup>51:newspaper:</sup></summary>
 
-- [住在北京地铁最后一站 专注自人物](https://github.com/fydy/elaw/issues/67)  <sup>0 :speech_balloon:</sup>  	 
+- [住在北京地铁最后一站 转载自人物](https://github.com/fydy/elaw/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
 - [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64)  <sup>0 :speech_balloon:</sup>  	 
