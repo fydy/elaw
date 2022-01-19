@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-06 08:56:29"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-19 06:54:18"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,18 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [住在北京地铁最后一站 专注自人物](https://github.com/fydy/elaw/issues/67) <sup>0 :speech_balloon:</sup> 	 2022-01-19 06:53:49
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+![image](https://user-images.githubusercontent.com/39726855/150077337-8a5e270e-fe27-456c-a179-6dddc58a8af9.png)
+` 当人们提起北京，它是一个常住人口2189万、面积16410平方公里的超
+
+[更多>>>](https://github.com/fydy/elaw/issues/67)
+
+---
+
 
 #### [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66) <sup>0 :speech_balloon:</sup> 	 2022-01-06 08:55:56
 
@@ -103,21 +115,6 @@ is
 　　我国的网络游戏行业在2010年后迎来大发展，入局网络游戏行业的企业不断增多，每年新增上万款网络游戏，市面上开始出现各类型的网络游戏。但由于出版行政监管部门每年下发的版号有限，并且审批时限较长，版号市场
 
 [更多>>>](https://github.com/fydy/elaw/issues/63)
-
----
-
-
-#### [游戏合规系列（三）：网络游戏利用马甲包买量的合规风险](https://github.com/fydy/elaw/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:10:23
-
-:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
-
-　　本篇为系列文章第三篇：网络游戏利用马甲包买量的合规风险。
-
-　　（一）网络游戏企业的马甲包买量玩法
-
-　　所谓的马甲包买量（马甲包也有切支付的功能，因为不是本文的研究重点，略过不表），是指游戏公司将一款网络游戏，通过改变游戏名称、故事情节、任务内容、人物性格、角色特征、互动功能等内容，重
-
-[更多>>>](https://github.com/fydy/elaw/issues/62)
 
 ---
 
@@ -253,8 +250,9 @@ is
 </details>
 
 <details>
-<summary>POST	<sup>50:newspaper:</sup></summary>
+<summary>POST	<sup>51:newspaper:</sup></summary>
 
+- [住在北京地铁最后一站 专注自人物](https://github.com/fydy/elaw/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
 - [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64)  <sup>0 :speech_balloon:</sup>  	 
