@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-19 06:55:54"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 04:02:09"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -276,7 +276,7 @@ is
 - [图书馆数字资源校外使用账号](https://github.com/fydy/elaw/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [自动为WordPress文章添加特色图像](https://github.com/fydy/elaw/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 - [离婚析产 附有关规定](https://github.com/fydy/elaw/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>0 :speech_balloon:</sup>  	 
+- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>1 :speech_balloon:</sup>  	 
 - [Google Chrome 网页长截图方法](https://github.com/fydy/elaw/issues/29)  <sup>1 :speech_balloon:</sup>  	 
 - [ 商品房预约合同中不可归责于双方事由之实务认定](https://github.com/fydy/elaw/issues/28)  <sup>1 :speech_balloon:</sup>  	 
 - [Bitnami Shell](https://github.com/fydy/elaw/issues/27)  <sup>1 :speech_balloon:</sup>  	 
@@ -381,7 +381,7 @@ is
 
 - [如何制造抗辩争点-转自民法学人](https://github.com/fydy/elaw/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 - [离婚析产 附有关规定](https://github.com/fydy/elaw/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>0 :speech_balloon:</sup>  	 
+- [律师职业进阶（网络转载文章）](https://github.com/fydy/elaw/issues/31)  <sup>1 :speech_balloon:</sup>  	 
 - [高院法官谈：律师如何举证、质证？](https://github.com/fydy/elaw/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 - [劳动争议案件实务](https://github.com/fydy/elaw/issues/7)  <sup>1 :speech_balloon:</sup>  	 
 - [民事诉讼实务技巧](https://github.com/fydy/elaw/issues/5)  <sup>0 :speech_balloon:</sup>  	 
