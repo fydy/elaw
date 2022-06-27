@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 04:06:26"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-27 02:56:45"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,18 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [fiddler everywhere](https://github.com/fydy/elaw/issues/68) <sup>0 :speech_balloon:</sup> 	 2022-06-27 02:56:07
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+首先安装3.2.1官方版本，打开安装路径下` .\resources\app\out\WebServer\ClientApp\dist `目录。
+### 一、在里面找到 main.304c864f4d0af6e9.js 用vscode或其他软件打开，搜索` updateUserLicense`插入
+
+[更多>>>](https://github.com/fydy/elaw/issues/68)
+
+---
+
 
 #### [住在北京地铁最后一站 转载自人物](https://github.com/fydy/elaw/issues/67) <sup>0 :speech_balloon:</sup> 	 2022-01-19 06:53:49
 
@@ -100,21 +112,6 @@ is
 
 
 [更多>>>](https://github.com/fydy/elaw/issues/64)
-
----
-
-
-#### [游戏合规系列（四）：网络游戏套版号的法律风险](https://github.com/fydy/elaw/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-10-13 06:16:10
-
-:label: : [网络游戏](https://github.com/fydy/isblog/labels/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F)
-
-　　本篇为系列文章第四篇：网络游戏套版号的法律风险。
-
-　　一、网络游戏套版号的原因
-
-　　我国的网络游戏行业在2010年后迎来大发展，入局网络游戏行业的企业不断增多，每年新增上万款网络游戏，市面上开始出现各类型的网络游戏。但由于出版行政监管部门每年下发的版号有限，并且审批时限较长，版号市场
-
-[更多>>>](https://github.com/fydy/elaw/issues/63)
 
 ---
 
@@ -250,8 +247,9 @@ is
 </details>
 
 <details>
-<summary>POST	<sup>50:newspaper:</sup></summary>
+<summary>POST	<sup>51:newspaper:</sup></summary>
 
+- [fiddler everywhere](https://github.com/fydy/elaw/issues/68)  <sup>0 :speech_balloon:</sup>  	 
 - [住在北京地铁最后一站 转载自人物](https://github.com/fydy/elaw/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [How to make your own weighted knot charging cable with FixIts](https://github.com/fydy/elaw/issues/65)  <sup>0 :speech_balloon:</sup>  	 
