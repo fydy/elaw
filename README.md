@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-08-09 12:04:57"/>
+    <img src="https://badgen.net/badge/last-commit/2022-09-11 01:37:04"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -54,6 +54,25 @@ is
 - [简单生活](https://github.com/fydy/elaw/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [提问的智慧](https://github.com/fydy/elaw/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Using Composite GitHub Actions to make your Workflows smaller and more reusable](https://github.com/fydy/elaw/issues/69) <sup>0 :speech_balloon:</sup> 	 2022-09-11 01:36:34
+
+:label: : [POST](https://github.com/fydy/isblog/labels/POST)
+
+[copy form ](https://wallis.dev/blog/composite-github-actions)
+
+At work there has been a drive to move existing CI/CD pipelines from Jenkins to GitHub Workflows in order to empower developers with more control over test, feature and production deployments.
+
+In addition, we've recently moved to a monorepo structure and are building new workflows that deploy multiple applications at once. A result of using a monorepo structure is that the GitHub Workflows vary in size and purpose. For example, some carry out simple tasks such as unit testing an individual component whereas other, larger workflows deploy full production environments.
+
+This post aims to demonstrate how composite GitHub Actions can be used to to split workflows into smaller, reusable components.
+
+
+
+[更多>>>](https://github.com/fydy/elaw/issues/69)
+
+---
+
 
 #### [fiddler everywhere](https://github.com/fydy/elaw/issues/68) <sup>0 :speech_balloon:</sup> 	 2022-06-27 02:56:07
 
@@ -100,18 +119,6 @@ is
 
 
 [更多>>>](https://github.com/fydy/elaw/issues/65)
-
----
-
-
-#### [弹出U盘或者移动硬盘时，提示：“该设备正在使用中，请关闭可能使用该设备的所有程序或窗口” 解决办法](https://github.com/fydy/elaw/issues/64) <sup>0 :speech_balloon:</sup> 	 2020-10-28 08:55:02
-
-:label: : [POST](https://github.com/fydy/isblog/labels/POST)
-
-![image](https://user-images.githubusercontent.com/39726855/97413834-3737c280-193e-11eb-971e-ef04d02c41fa.png)
-
-
-[更多>>>](https://github.com/fydy/elaw/issues/64)
 
 ---
 
@@ -247,8 +254,9 @@ is
 </details>
 
 <details>
-<summary>POST	<sup>51:newspaper:</sup></summary>
+<summary>POST	<sup>52:newspaper:</sup></summary>
 
+- [Using Composite GitHub Actions to make your Workflows smaller and more reusable](https://github.com/fydy/elaw/issues/69)  <sup>0 :speech_balloon:</sup>  	 
 - [fiddler everywhere](https://github.com/fydy/elaw/issues/68)  <sup>0 :speech_balloon:</sup>  	 
 - [住在北京地铁最后一站 转载自人物](https://github.com/fydy/elaw/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [移动硬盘参数错误解决教程](https://github.com/fydy/elaw/issues/66)  <sup>0 :speech_balloon:</sup>  	 
