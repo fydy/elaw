@@ -64,19 +64,11 @@ def bundle_summary_section():
     summary_section = '''
 
 <p align='center'>
-    <b>记录平时看到的，听到的一些有用的事情，目前在互联游戏公司负责投融资及法律事宜方面的工作,关注知识产权、公司等民商事领域。</b>
+    <b>记录一些有用的文章，版权归原作者所有。</b>
 </p>
 
 <p align='center'>
-    <a href="mailto:yuncme@foxmail.com">点击这里可以给我的工作邮箱发邮件留言</a>
-</p>
-
-<p align='center'>
-    <b>扫描下方微信二维码，联系我！</b>
-</p>
-
-<p align='center'>
-    <img src="https://user-images.githubusercontent.com/39726855/69690735-b35ed000-1107-11ea-8398-58b67df491c4.jpg"  alt="微信交流" />
+    <a href="mailto:chunxiaqiu13@gmail.com">点击这里可以给我留言</a>
 </p>
 
 <p align='center'>
