@@ -19,7 +19,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/fydy/elaw"/>
-    <img src="https://badgen.net/badge/last-commit/2022-09-11 01:37:04"/>
+    <img src="https://badgen.net/badge/last-commit/2022-09-11 01:47:33"/>
     <img src="https://badgen.net/github/forks/fydy/elaw"/>
     <img src="https://badgen.net/github/stars/fydy/elaw"/>
     <img src="https://badgen.net/github/watchers/fydy/elaw"/>
@@ -59,7 +59,7 @@ is
 
 :label: : [POST](https://github.com/fydy/isblog/labels/POST)
 
-[copy form ](https://wallis.dev/blog/composite-github-actions)
+### Please noted that the article is excerpted from the [blog website](https://wallis.dev/blog/composite-github-actions), the copyright belongs to the original author.
 
 At work there has been a drive to move existing CI/CD pipelines from Jenkins to GitHub Workflows in order to empower developers with more control over test, feature and production deployments.
 
